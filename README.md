@@ -15,6 +15,10 @@
 ```
 ![image](https://github.com/chihyeonWON/2022_manager/assets/58906858/4eae999a-e50d-49f2-8633-0c9c55431014)
 
+![image](https://github.com/chihyeonWON/2022_manager/assets/58906858/dd0d0583-5985-431d-a869-918cfa3cac0c)
+```
+비용 예측을 위한 소프트웨어 개발 방법으로 COCOMO 방법을 적용한다.
+```
 ![image](https://github.com/chihyeonWON/2022_manager/assets/58906858/2fc58b56-f2c3-416f-a729-41974750f642)
 ```
 처음 6명의 개발 인력이 100% 투입되서 16개월 일하니까 16 * 6 = 96MM
