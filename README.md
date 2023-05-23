@@ -9,4 +9,11 @@
 ```
 정답2번 Baseline
 ```
+![image](https://github.com/chihyeonWON/2022_manager/assets/58906858/3eb5b51c-e7e4-441b-996c-a1cfd58c0f0b)
+```
+
+```
 ![image](https://github.com/chihyeonWON/2022_manager/assets/58906858/4eae999a-e50d-49f2-8633-0c9c55431014)
+
+![image](https://github.com/chihyeonWON/2022_manager/assets/58906858/2fc58b56-f2c3-416f-a729-41974750f642)
+
