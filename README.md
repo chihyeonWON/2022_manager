@@ -16,4 +16,11 @@
 ![image](https://github.com/chihyeonWON/2022_manager/assets/58906858/4eae999a-e50d-49f2-8633-0c9c55431014)
 
 ![image](https://github.com/chihyeonWON/2022_manager/assets/58906858/2fc58b56-f2c3-416f-a729-41974750f642)
+```
+처음 6명의 개발 인력이 100% 투입되서 16개월 일하니까 16 * 6 = 96MM
+이후 11개월 시작 지점 즉 총 개발 기간 16개월 중 남은 개월 수는 6개월
+2명은 100% 즉 6 * 2 = 12 MM
+1명은 50% 즉 6 * 1 * 0.5 = 6 MM
 
+따라서 소프트웨어 개발에 투입된 총 MM(Man-Month)는 111 MM
+```
